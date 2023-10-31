@@ -1,0 +1,128 @@
+*{
+
+    list-style: none;
+}
+body{
+
+    background-color: deepskyblue;
+    margin: 0%;
+}
+#inicio1{
+
+background-color: blue;
+}
+#inicio1 ul{
+
+    background-color: blue ;
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    padding: 0%;
+    margin: 0%;
+}
+
+#inicio2{
+
+    display: flex;
+    justify-content: start;
+}
+
+#imagem1{
+
+    border-radius: 50%;
+    border: 5px solid blue;
+
+}
+
+.imagem2{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10%;
+
+}
+
+#imagem2 > h2{
+
+    width: 50%;
+}
+
+#titulo1{
+
+    margin-top: 20%;
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+#txt1{
+
+    width: 50%;
+}
+
+#texto1{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#teste4{
+
+    background-color: rgb(120, 192, 240);
+}
+
+#texto1 > img{
+
+    margin: 5%;
+}
+
+#titulo2{
+
+    margin-top: 5%;
+    text-align: center;
+    margin-bottom: 5%;
+}
+#titulo3{
+
+    margin-top: 5%;
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+#texto3{
+    
+    margin-top: 5%;
+    text-align: center;
+    margin-bottom: 5%;
+}
+#teste5{
+
+    background-color: rgb(120, 192, 240);
+
+}
+
+#texto4{
+
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+
+#imagemsenai{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#txtsenai{
+
+    width: 50%;
+}
+
+#imagemsenai > img{
+
+    margin: 2%;
+
+}
